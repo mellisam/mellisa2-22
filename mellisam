@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title> melly m</title>
+    
+    
+    
+      </head>
+
+<body>
+    <header>    
+    <h1>all mell</h1>
+    </header>
+    
+    
+    <div>
+        <h2>about me</h2>
+    <img src="assets/1200px-TsunamiHazardSign.svg.png">
+        <p>im a great person and a future roll model. i hope to accomplish all of my goals i have for my self in the next 5-10 years.
+        
+        
+        
+        
+        
+        </p>
+    
+    
+    </div>
+    <div>
+        
+    <h2>experience</h2>
+        <h3>employer,date</h3>
+        <ul>
+        <li>1.</li>
+            <li>2.</li>
+            <li>3</li>
+        </ul>
+        
+    </div>
+    <div>
+        <h2>education</h2>
+        <h3>school, date</h3>
+        <ul>
+        <li>1</li>
+            <li>2</li>
+            <li>3</li>
+        </ul>
+    
+    </div>
+    <footer></footer>
+    
+    
+    </body>
+
+
+
+</html>
